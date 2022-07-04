@@ -1,27 +1,44 @@
 ## Welcome to GitHub Pages
+# this is my RESUME where you can find my skills:
 
-You can use the [editor on GitHub](https://github.com/LennyPro/lennypro/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Lenny Pro
+lennyproinbox@gmail.com
+Sherman Oaks, CA 91403
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Web Development Services and Software Testing
 
-### Markdown
+- Great communication skills and a strong sense of responsibility
+- Work independently, accurately meet deadlines, team player
+- Quick learner with the ability to adapt to any professional environment
+- Over 9 years of experience as dance studio manager and co-owner
+- US citizen
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+TECHNICAL SKILLS:
 
-```markdown
-Syntax highlighted code block
+Operating Systems: UNIX, Windows, macOS, iOS
+Language: JavaScript, CSS, HTML
+Libraries and Frameworks: REACT, jQuery, Bootstrap, Jest
+Server Side: SQL, NODE, GitHub
+Hands-on: Postman API, Chrome DevTools, Git, MS Office, PhotoShop, iMovie, Adobe Illustrator
 
-# Header 1
-## Header 2
-### Header 3
+Education:
 
-- Bulleted
-- List
+## Touro College:
+Graphic Design, Web Development
 
-1. Numbered
-2. List
+https://codewithmosh.com/
+JavaScript, React, Node, jQuery, Bootstrap, Jest
 
-**Bold** and _Italic_ and `Code` text
+https://www.codecademy.com/
+Command Line Interface, CSS, HTML, Asynchronous JavaScript, React, GitHub, jQuery, Jest
+
+
+
+
+Use [editor on GitHub](https://github.com/LennyPro/lennypro/edit/gh-pages/index.md) to maintain & preview the content for your website in Markdown files.
+
+When commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from content in Markdown files.
+
 
 [Link](url) and ![Image](src)
 ```
