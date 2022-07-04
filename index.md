@@ -1,4 +1,4 @@
-### Welcome to GitHub Pages
+### Welcome to Lenny's GitHub Page
 ### my RESUME where you can find my skills:
 
 Lenny Pro
