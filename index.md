@@ -1,5 +1,5 @@
 ### Welcome to GitHub Pages
-## my RESUME where you can find my skills:
+### my RESUME where you can find my skills:
 
 Lenny Pro
 lennyproinbox@gmail.com
@@ -15,11 +15,11 @@ Web Development Services and Software Testing
 
 TECHNICAL SKILLS:
 
-**Operating Systems** : UNIX, Windows, macOS, iOS
-**Language** : JavaScript, CSS, HTML
-**Libraries and Frameworks** : REACT, jQuery, Bootstrap, Jest
-**Server Side** : SQL, NODE, GitHub
-**Hands-on** : Postman API, Chrome DevTools, Git, MS Office, PhotoShop, iMovie, Adobe Illustrator
+**Operating Systems** : UNIX, Windows, macOS, iOS <br>
+**Language** : JavaScript, CSS, HTML <br>
+**Libraries and Frameworks** : REACT, jQuery, Bootstrap, Jest <br>
+**Server Side** : SQL, NODE, GitHub <br>
+**Hands-on** : Postman API, Chrome DevTools, Git, MS Office, PhotoShop, iMovie, Adobe Illustrator <br>
 
 Education:
 
