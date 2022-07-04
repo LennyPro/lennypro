@@ -15,11 +15,11 @@ Web Development Services and Software Testing
 
 TECHNICAL SKILLS:
 
-Operating Systems: UNIX, Windows, macOS, iOS
-Language: JavaScript, CSS, HTML
-Libraries and Frameworks: REACT, jQuery, Bootstrap, Jest
-Server Side: SQL, NODE, GitHub
-Hands-on: Postman API, Chrome DevTools, Git, MS Office, PhotoShop, iMovie, Adobe Illustrator
+**Operating Systems** : UNIX, Windows, macOS, iOS
+**Language** : JavaScript, CSS, HTML
+**Libraries and Frameworks** : REACT, jQuery, Bootstrap, Jest
+**Server Side** : SQL, NODE, GitHub
+** Hands-on** : Postman API, Chrome DevTools, Git, MS Office, PhotoShop, iMovie, Adobe Illustrator
 
 Education:
 
