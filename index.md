@@ -1,5 +1,5 @@
-## Welcome to GitHub Pages
-# this is my RESUME where you can find my skills:
+### Welcome to GitHub Pages
+## my RESUME where you can find my skills:
 
 Lenny Pro
 lennyproinbox@gmail.com
@@ -23,7 +23,7 @@ Hands-on: Postman API, Chrome DevTools, Git, MS Office, PhotoShop, iMovie, Adobe
 
 Education:
 
-## Touro College:
+### Touro College:
 Graphic Design, Web Development
 
 https://codewithmosh.com/
