@@ -19,7 +19,7 @@ TECHNICAL SKILLS:
 **Language** : JavaScript, CSS, HTML <br>
 **Libraries and Frameworks** : REACT, jQuery, Bootstrap, Jest <br>
 **Server Side** : SQL, NODE, GitHub <br>
-**Hands-on** : Postman API, Chrome DevTools, Git, MS Office, PhotoShop, iMovie, Adobe Illustrator <br>
+**Hands-on** : Postman API, Chrome DevTools, Git, MS Office, Adobe Suit <br>
 
 Education:
 
