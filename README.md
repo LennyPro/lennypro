@@ -1,4 +1,12 @@
 ### Hi there 👋
+I am Lenny
+- 🌱 I’m currently learning JavaScript, Node, React
+- 👯 I’m looking to collaborate on different projects that include topics I learn to increase my coding IQ
+- 🤔 I’m looking for help with finding an entry level job to put my knolegde into use
+- 📫 How to reach me: lennypro84@gmail.com
+- ⚡ Fun fact: I am a professional Ballroom dancer and teacher
+
+
 
 <!--
 **LennyPro/lennypro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
