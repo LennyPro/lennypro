@@ -28,7 +28,7 @@ Graphic Design, Web Development
 JavaScript, React, Node, jQuery, Bootstrap, Jest
 
 **https://www.codecademy.com/** <br>
-Command Line Interface, CSS, HTML, Asynchronous JavaScript, React, GitHub, jQuery, Jest
+Command Line Interface, CSS, HTML, JavaScript, React, GitHub, jQuery, Jest
 
 
 
