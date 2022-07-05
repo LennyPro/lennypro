@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am Lenny
+## I am Lenny
 - 🌱 I’m currently learning JavaScript, Node, React
 - 👯 I’m looking to collaborate on different projects that include topics I learn to increase my coding IQ
 - 🤔 I’m looking for help with finding an entry level job to put my knolegde into use
