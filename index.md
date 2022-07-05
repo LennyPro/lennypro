@@ -1,7 +1,7 @@
-## my RESUME as a web-developer
+# my RESUME as a web-developer
 
-## Lenny Pro : lennypro84@gmail.com <br>
-## Sherman Oaks, CA 91403 <br>
+# Lenny Pro : lennypro84@gmail.com <br>
+# Sherman Oaks, CA 91403 <br>
 
 Full Stack Web Developer
 
@@ -21,8 +21,7 @@ TECHNICAL SKILLS:
 
 Education:
 
-## Touro College:
-Graphic Design, Web Development
+**Touro College** : Graphic Design, Web Development
 
 https://codewithmosh.com/
 JavaScript, React, Node, jQuery, Bootstrap, Jest
