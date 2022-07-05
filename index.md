@@ -24,10 +24,10 @@ Education:
 **Touro College** : <br>
 Graphic Design, Web Development
 
-https://codewithmosh.com/ <br>
+**https://codewithmosh.com/** <br>
 JavaScript, React, Node, jQuery, Bootstrap, Jest
 
-https://www.codecademy.com/ <br>
+**https://www.codecademy.com/** <br>
 Command Line Interface, CSS, HTML, Asynchronous JavaScript, React, GitHub, jQuery, Jest
 
 
