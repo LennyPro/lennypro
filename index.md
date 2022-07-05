@@ -21,12 +21,13 @@ TECHNICAL SKILLS:
 
 Education:
 
-**Touro College** : Graphic Design, Web Development
+**Touro College** : <br>
+Graphic Design, Web Development
 
-https://codewithmosh.com/
+https://codewithmosh.com/ <br>
 JavaScript, React, Node, jQuery, Bootstrap, Jest
 
-https://www.codecademy.com/
+https://www.codecademy.com/ <br>
 Command Line Interface, CSS, HTML, Asynchronous JavaScript, React, GitHub, jQuery, Jest
 
 
