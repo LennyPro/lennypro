@@ -24,7 +24,11 @@ TECHNICAL SKILLS:
 **Hands-on** : Postman API, Chrome DevTools, GitHub, Jira <br>
 **Extra Skills** : MS Office, video / audio / image file editing <br>
 
-Education:
+<br>
+<br>
+<br>
+
+*Education* :
 
 **Touro College** : <br>
 Graphic Design, Web Development <br>
