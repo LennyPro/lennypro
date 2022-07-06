@@ -21,7 +21,7 @@ TECHNICAL SKILLS:
 **Language** : JavaScript, CSS, HTML <br>
 **Libraries and Frameworks** : REACT, jQuery, Bootstrap, Jest <br>
 **Server Side** : NODE JS runtime environment for back-end, GitHub w/Git cli <br>
-**Hands-on** : Postman API, Chrome DevTools, GitHub, Jira
+**Hands-on** : Postman API, Chrome DevTools, GitHub, Jira <br>
 **Extra Skills** : MS Office, video / audio / image file editing <br>
 
 Education:
