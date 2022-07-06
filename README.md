@@ -4,7 +4,7 @@
 - 👯 I’m looking to collaborate on different projects that include topics I learn to increase my coding IQ
 - 🤔 I’m looking for help with finding an entry level job to put my knolegde into use
 - 📫 How to reach me: lennypro84@gmail.com
-- ⚡ Fun fact: I am a professional Ballroom dancer and teacher with over 20 years expirience 
+- ⚡ Fun fact: I am a professional Ballroom dancer and teacher with over 20 years of expirience 
 
 
 
