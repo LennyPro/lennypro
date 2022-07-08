@@ -45,7 +45,7 @@ Command Line, CSS, HTML, JavaScript, React, GitHub + Git CLI, jQuery, Jest <br>
 
 [link my LinkedIn page](https://www.linkedin.com/in/lenny-pro-100346210/)
 
-![Image of Lenny Pro](/lennypro/Lenny_Pro.JPG "Lenny Pro")
+![Image of Lenny Pro](lennypro/Lenny_Pro.JPG "Lenny Pro")
 
 
 
