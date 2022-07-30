@@ -2,8 +2,8 @@
 full-stack junior web-developer
 
 Lenny Pro <br>
-(424) 333 6811 | lennyproinbox@gmail.com <br>
-Sherman Oaks, CA 91403 <br>
+lennyproinbox@gmail.com <br>
+Sherman Oaks, CA <br>
 https://lennypro.github.io/lennypro/ <br>
 
 
